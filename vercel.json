@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/sitemap.xml", "destination": "/wp-sitemap.xml", "statusCode": 301 }
+  ]
+}
