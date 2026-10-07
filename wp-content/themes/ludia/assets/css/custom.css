@@ -1,0 +1,211 @@
+.etusivupalvelut h2 {
+    color:#fff;
+    text-transform:uppercase;
+    font-size:22px;
+    line-height:26px;
+}
+
+.wpcf7-mail-sent-ok {
+    display:none!important;
+}
+
+.etusivupalvelut p {
+    color:#fff;
+    font-size:18px;
+    line-height:22px;
+}
+
+.palveluingressi p {
+    font-size:18px;
+    color:#fff;
+}
+
+.ingressi {
+    font-size:20px;
+    font-weight:600;
+    line-height:1.45em;
+    color:#000;
+}
+
+.ctc-btn {
+  display:block;
+  padding:15px 20px;
+  position:fixed;
+  bottom:0;
+  left:10px;
+  font-size:30px;
+  z-index:1000;
+}
+
+.wpcf7 .wpcf7-text,
+.wpcf7 .wpcf7-textarea,
+.wpcf7 .wpcf7-select {
+    border-style:solid;
+}
+
+#polylang-2 {
+    float:right;
+}
+
+#polylang-2 li {
+    list-style-type:none;
+    float:left;
+    margin-left:10px;
+}
+
+#languagebar {
+    background:#fff;
+}
+
+.ctc-btn:hover {
+  color:;
+}
+
+.linkkilohko {
+    cursor:pointer;
+}
+
+.linkkilohko-blank {
+    cursor:pointer;
+}
+
+#menu-paavalikko-1 a {
+    outline:none;
+}
+
+.lomakefield-left {
+    float:left;
+    width:48%;
+    margin-right:2%;
+}
+
+.lomakefield-right {
+    width:45%;
+    float:left;
+}
+
+.lomakefield {
+    margin-bottom:10px;
+}
+
+.wpcf7 .wpcf7-text {
+    padding:21px 10px;
+    height:inherit;
+}
+
+.fl-page-footer-wrap a.btn-1 {
+    background:#dd2634;
+    padding:15px 20px;
+    margin-top:20px;
+    display:inline-block;
+    color:#fff;
+}
+
+.wpcf7 .btn-1 {
+    background:#dd2634;
+    padding:15px 35px;
+    border-radius:0;
+    text-transform:uppercase;
+    display:inline-block;
+    color:#fff;
+    border-style:solid;
+}
+
+.wpcf7 .btn-1:hover {
+    border-style:solid;
+}
+
+.fl-page-footer-wrap a.btn-1:hover {
+    color:#fff;
+    text-decoration:none;
+}
+
+.fl-page-footer-wrap .jasenyritykset img {
+    float:left;
+    max-width:120px;
+    height:auto;
+}
+
+.fl-page-footer-wrap h2 {
+    display:block;
+    clear:both;
+    text-transform:uppercase;
+    font-size:20px;
+    line-height:24px;
+    font-weight:600;
+}
+
+.fl-page-footer-wrap img.alignnone {
+    margin:0 5px 0 0;
+}
+
+.fl-page-footer-wrap .fl-widget {
+    margin-bottom: 20px;
+    clear: both;
+    display: block;
+    overflow: hidden;
+}
+
+.isotkirjaimet h1,
+.isotkirjaimet h2,
+.isotkirjaimet h3 {
+    text-transform:uppercase;
+}
+
+.tekstivarjo h1,
+.tekstivarjo h2,
+.tekstivarjo h3 {
+text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+}
+
+.wpcf7 div.wpcf7-validation-errors {
+    border: 2px solid #dd2634;
+    clear: both;
+    background: #dd2634;
+    color: #fff;
+    padding: 20px;
+}
+
+.wpcf7 span.wpcf7-not-valid-tip {
+    color: #fff;
+    font-size: 1em;
+    display: block;
+    background: #dd2634;
+    padding: 2px 10px;
+}
+
+.etusivupalvelut a:hover {
+    text-decoration:none;
+}
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+#copyright {
+    padding-bottom:100px;
+}
+
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
+    
+}
+
+
